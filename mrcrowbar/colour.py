@@ -1,4 +1,6 @@
 import math
+import itertools
+
 
 class BaseColour( object ):
     r_8 = 0
